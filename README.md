@@ -1,1 +1,1 @@
-# hacktoberfest
+# Hacktoberfest KTW Open Hack Night
